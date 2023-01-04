@@ -1,1 +1,1 @@
-basic sql commands
+learning some basic sql commands via a project
